@@ -4,12 +4,13 @@ After attending one of Railsbridge Saturday's (awesome) workshop on the 23rd of 
 
 Main purpose of this job board:
 
-* Practice Ruby on Rails and MVC
+* Keep practicing building apps with Ruby on Rails and MVC framework
 
 * Ease access of RoR software engineers job positions for the Railsbridge community
 
 * Support Railsbridge sponsors and job announcements
 
 * Encourage companies to publish job positions and hire Railsbridge fellows
+
 
 Built to learn, you are more than welcome to bring feedbacks and contribute to it!
