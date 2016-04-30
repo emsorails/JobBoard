@@ -3,4 +3,8 @@
 <% @jobs.each do |job| %>
   <h3><%= link_to job.title, job_path(job) %></h3>
   <p><%= job.description %></p>
+  <% job.location %>
+  <% job.salary %>
+  <% job.contract_type %>
+  <% job.keywords %>
 <% end %>

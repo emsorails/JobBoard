@@ -1,5 +1,9 @@
 <h2><%= @job.title %></h2>
 
 <%= @job.description %>
+<h5><%= @job.location %></h5>
+<h5><%= @job.salary %></h5>
+<h5><%= @job.contract_type %></h5>
+<h5><%= @job.keywords %></h5>
 <h5><%= link_to "Edit Posting", edit_job_path(@job) %></h5>
 <h5><%= link_to "Delete Posting", @job, method: :delete %></h5>
